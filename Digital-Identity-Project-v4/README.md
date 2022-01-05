@@ -1,8 +1,8 @@
 # Digital-Identity-Project
 
-登入頁面login.php  
-個人用戶userindex.php  
-第三方公司companyindex.php  
+登入頁面loginWithUI.php  
+個人用戶userindexWithUI.php  
+第三方公司companyindexWithUI.php  
 
 資料庫可以直接匯入  
 database設置為 "network_security"  
