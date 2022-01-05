@@ -62,7 +62,7 @@ while ($row_result_name = $result_name->fetch_assoc()) {
                 </ul>
                 <div class="d-flex align-items-center">
                     <img src="https://fakeimg.pl/48x48" class="rounded-circle" alt="User image">
-                    <p class="my-auto ms-3 me-8">林璟翔</p>
+                    <p class="my-auto ms-3 me-8"><?php echo "$name[0]"?></p>
                     <button type="button" class="btn btn-outline-primary">登出</button>
                 </div>
             </div>
