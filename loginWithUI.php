@@ -98,7 +98,7 @@ if ($account != "" && $password != "") {
 <body class="bg-dark">
 
    <div class="container-fluid">
-      <div class="col-4 position-absolute top-50 start-50 translate-middle">
+      <div class="col-sm-4 col-6 position-absolute top-50 start-50 translate-middle">
          <div class="card">
             <div class="card-body">
                <h1 class="h4 card-text text-center mb-5">資料管理系統</h1>
